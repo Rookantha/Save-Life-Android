@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">602369238591-hemds48ercioga5r5dvv0anrcm94d86p.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://save-life-13553.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">602369238591</string>
+    <string name="google_api_key" translatable="false">AIzaSyDhuwHfhsangAyVwRwP7Ttb111IQZLmZ40</string>
+    <string name="google_app_id" translatable="false">1:602369238591:android:054c44818b37d029597a8a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDhuwHfhsangAyVwRwP7Ttb111IQZLmZ40</string>
+    <string name="google_storage_bucket" translatable="false">save-life-13553.appspot.com</string>
+    <string name="project_id" translatable="false">save-life-13553</string>
+</resources>

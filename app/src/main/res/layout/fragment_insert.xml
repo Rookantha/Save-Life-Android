@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/pID_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Patient ID Number"/>
+
+
+    <EditText
+        android:id="@+id/pName_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/pID_text"
+        android:inputType="textPersonName"
+        android:hint="Name"/>
+
+    <EditText
+        android:id="@+id/pAge_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/pName_text"
+        android:inputType="textPersonName"
+        android:hint="Age"
+        />
+    <EditText
+        android:id="@+id/pAddress_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/pAge_text"
+        android:inputType="textPersonName"
+        android:hint="Address"
+       />
+    <EditText
+        android:id="@+id/pWard_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/pAddress_text"
+        android:inputType="textPersonName"
+        android:hint="WardNumber"
+        />
+    <EditText
+        android:id="@+id/pBed_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/pWard_text"
+        android:inputType="textPersonName"
+        android:hint="Bed Number"
+        />
+    <EditText
+        android:id="@+id/pGuardian_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/pBed_text"
+        android:inputType="textPersonName"
+        android:hint="Guardian"
+        />
+    <EditText
+        android:id="@+id/pNurseNote_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/pGuardian_text"
+        android:inputType="textPersonName"
+        android:hint="Nurse Note"
+        />
+
+    <Button
+        android:id="@+id/btnInsert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_below="@+id/pNurseNote_text"
+        android:text="Button"
+        />
+
+
+
+
+
+
+
+</RelativeLayout>

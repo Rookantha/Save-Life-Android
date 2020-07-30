@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_abnormal"
+            android:icon="@drawable/ic_priority_high"
+            android:title="Abnormal" />
+        <item
+            android:id="@+id/nav_critical"
+            android:icon="@drawable/ic_critical"
+            android:title="Critical" />
+        <item
+            android:id="@+id/nav_normal"
+            android:icon="@drawable/ic_normal"
+            android:title="Normal" />
+
+    </group>
+    <item android:title="Patients Data">
+        <menu>
+            <item
+                android:id="@+id/nav_insert"
+                android:icon="@drawable/ic_update"
+                android:title="Update" />
+            <item
+                android:id="@+id/nav_delete"
+                android:icon="@drawable/ic_delete"
+                android:title="Delete" />
+
+        </menu>
+    </item>
+
+
+</menu>
