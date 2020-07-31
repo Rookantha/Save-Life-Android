@@ -28,14 +28,11 @@ During the design stage, the Class diagram was created to demonstrates the struc
   <dt>Architectural design patterns</dt>
   <dd>In terms of software engineering does not start building a mobile application, or any other software system for that matter without a clear idea about its architecture. The lack of guiding principles results in cluttered code, and a tightly coupled system. Such a codebase is challenging to maintain and more prone to bugs. </dd>
   <dt>MVC</dt>
-  <dd>Model-
-In this context, all the communication between databases, APIs, and validation processes are being taken place. Therefore, the model is invisible from outside observations, it is an internal operation that compromises most of the heavy tasks.
+  <dd>Model-In this context, all the communication between databases, APIs, and validation processes are being taken place. Therefore, the model is invisible from outside     observations, it is an internal operation that compromises most of the heavy tasks.
   </dd>
-  <dd>View-
-This illustrates the visible environment for the users, in this case, Doctors, nurses, and laboratory scientists.
+  <dd>View-This illustrates the visible environment for the users, in this case, Doctors, nurses, and laboratory scientists.
   <dd>
-  </dd>Controller-
-The controller involves coordination communication between model context and the view context. Therefore, no possible interruptions will occur during patents data transactions.
+  </dd>Controller-The controller involves coordination communication between model context and the view context. Therefore, no possible interruptions will occur during patents data transactions.
   </dd>
   <dt>GRASP patterns.</dt>
   <dd>GRASP design principle consists of nine major patterns, including controller, creator etc. These GRSPE patterns composed of an answer to a software design problem. I have used not all but some of GRASP design principles in project solution design.
@@ -43,26 +40,35 @@ The controller involves coordination communication between model context and the
 
 <dt>HCI And Usability Engineering.</dt>
   <dd>The goals of applying HCI principles to design:
-  
-  <ol>
+ <ul>
   <li>Safety </li>
-  <li>Utility </li>
+  <li>Utility</li>
   <li>Effectiveness</li>
   <li>Usability</li>
-</ol>
-  
+</ul>
  
-  
-  
 “UE is an approach to the development of software and systems which involve user participation from the outset and guarantees the usefulness of the product through the use of a usability specification and metrics" (Faulkner, 2000).
-  
-  Norman’s Seven Principles.
+<ul>
+  <li>Schneiderman’s eight golden rules.</li>
+  <li>Norman’s Seven Principles. </li>
+  <li>5.8.3	Nielsen’s Ten Heuristics.</li>
+</ul>  
 </dd>
 
-
-
-
+<dt>Material Design</dt>
+  <dd>Beginning with Android Five Lollipop, Google introduced a new design language known as Material Design. Material Design is a visual language uniting style, branding, interaction, and motion under a consistent set of principles both in Android and for web applications. 
+  <ul>
+  <li>Material metaphor.</li>
+  <li>Grids, typography, and colors.</li>
+  <li>Motion focuses.</li>
+</ul>  
+</dd>
 </dl>
+
+<h3>Methods of Approach and Project Management.</h3>
+<p>When developing software, change is unavoidable. Requirements change for a variety of reasons. When the technology used to build the software becomes obsolete it makes software development inherently risky and creates unplanned adjustments and affects continuous improvement. To manage these challenges, there is an outline of the methodology and implementation of the Rational Unified Process, Agile Approach, and PRINCE2 management that took place during the project.<p>
+
+
   
   
   
