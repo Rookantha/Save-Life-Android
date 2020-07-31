@@ -26,29 +26,40 @@ During the design stage, the Class diagram was created to demonstrates the struc
 
   <dl>
   <dt>Architectural design patterns</dt>
-  <dd> -- In terms of software engineering does not start building a mobile application, or any other software system for that matter without a clear idea about its architecture. The lack of guiding principles results in cluttered code, and a tightly coupled system. Such a codebase is challenging to maintain and more prone to bugs. </dd>
+  <dd>In terms of software engineering does not start building a mobile application, or any other software system for that matter without a clear idea about its architecture. The lack of guiding principles results in cluttered code, and a tightly coupled system. Such a codebase is challenging to maintain and more prone to bugs. </dd>
   <dt>MVC</dt>
-  <dd>--   Model-
+  <dd>Model-
 In this context, all the communication between databases, APIs, and validation processes are being taken place. Therefore, the model is invisible from outside observations, it is an internal operation that compromises most of the heavy tasks.
   </dd>
-  <dd>--   View-
+  <dd>View-
 This illustrates the visible environment for the users, in this case, Doctors, nurses, and laboratory scientists.
   <dd>
-  </dd>-- Controller-
+  </dd>Controller-
 The controller involves coordination communication between model context and the view context. Therefore, no possible interruptions will occur during patents data transactions.
   </dd>
   <dt>GRASP patterns.</dt>
-  <dd>-GRASP design principle consists of nine major patterns, including controller, creator etc. These GRSPE patterns composed of an answer to a software design problem. I have used not all but some of GRASP design principles in project solution design.
+  <dd>GRASP design principle consists of nine major patterns, including controller, creator etc. These GRSPE patterns composed of an answer to a software design problem. I have used not all but some of GRASP design principles in project solution design.
 </dd>
 
 <dt>HCI And Usability Engineering.</dt>
-  <dd>- The goals of applying HCI principles to design: 
-  Safety 
-  Utility 
-  Effectiveness
-  Usability
+  <dd>The goals of applying HCI principles to design:
+  
+  <ol>
+  <li>Safety </li>
+  <li>Utility </li>
+  <li>Effectiveness</li>
+  <li>Usability</li>
+</ol>
+  
+ 
+  
+  
 “UE is an approach to the development of software and systems which involve user participation from the outset and guarantees the usefulness of the product through the use of a usability specification and metrics" (Faulkner, 2000).
+  
+  Norman’s Seven Principles.
 </dd>
+
+
 
 
 </dl>
