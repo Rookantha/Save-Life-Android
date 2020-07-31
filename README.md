@@ -61,20 +61,20 @@ During the design stage, the Class diagram was created to demonstrates the struc
 </dd>
 </dl>
 
-<h3>Methods of Approach and Project Management.</h3>
+<h2>Methods of Approach and Project Management.</h2>
 <p>When developing software, change is unavoidable. Requirements change for a variety of reasons. When the technology used to build the software becomes obsolete it makes software development inherently risky and creates unplanned adjustments and affects continuous improvement. To manage these challenges, there is an outline of the methodology and implementation of the Rational Unified Process, Agile Approach, and PRINCE2 management that took place during the project.<p>
   
-<h4>PRINCE2.</h4>
+<h3>PRINCE2.</h3>
 <p>PRINCE2 is a mature method developed through extensive consultation with project professionals. It provides a framework with guidance on what needs to be done and when, but without being prescriptive on how to do it. Also, we can achieve several benefits using PRINCE2 compatible with the project and the agile environment.<p>
   <h5>PRINCE2 Principles / best practices and Project Specifications.</h5>
 <dl>
   <dt>Continued business justification.</dt>
-  <dd>Every project needs a good reason to start. If considering the project benefits do not stack up to the project Succeed, then why go ahead? Thus. A business case should exist in some format for the project proposal (Section 17.2) and Project initiation Document (Section 17.3) and there should be also the alignment of the project with the corporate objectives.  Also, important to recognize the project with justification to proceed, should review that the justification still exists during the project as things can change in the external environment.</dd>
+  <dd>Every project needs a good reason to start. If considering the project benefits do not stack up to the project Succeed, then why go ahead? Thus. A business case should exist in some format for the project proposal and Project initiation Document and there should be also the alignment of the project with the corporate objectives.  Also, important to recognize the project with justification to proceed, should review that the justification still exists during the project as things can change in the external environment.</dd>
   <dt>Learning from experience. </dt>
   <dd>Learning lessons from similar and past medical investigation-based projects were very useful for manage project Scope and project Aim.</dd>
   
   <dt>Managed by stages.</dt>
-  <dd>In the Project initiation document’s (Section 17.3) Project Plan was defined by project stages, as the initiation stage and the seven Build stages. 
+  <dd>In the Project initiation document’s Project Plan was defined by project stages, as the initiation stage and the seven Build stages. 
 Furthermore, there was Included how many and how long management stages depend on a number of factors, like the size and the complexity of the project, or where the major control or major decision points will be, and also the level of risk associated (Project Management Artefacts) with the work.</dd>
   <dt>Focusing on products. </dt>
   <dd>PRINCE2 suggests that we focus our planning effort on what needs to be delivered and the quality it should meet rather than what we need to do. This helps with initial scope definition and reduces the risk of failure of the final product.</dd>
@@ -94,13 +94,13 @@ Furthermore, there was Included how many and how long management stages depend o
 </dl>
 
 
-<h4>Trello</h4>
+<h3>Trello</h3>
 <p>The Trello simple web-based tool and Agile is a natural fit lightweight way for project development. Also, Agile and Trello have the flexibility to be applied in many ways.<p>
 
-<h4>Version control and GitHub</h4>
+<h3>Version control and GitHub</h3>
 <p>The version control system used in this project was GitHub. Using Git as a source code management tool has become an essential skill for all developers. Git helps manage the code in new features when developing a project. Also helps to find and fix problems and simplifies collaboration with other developers where are they around the world. Furthermore, the repository is stored on GitHub and not just kept locally, this prevents data from being lost in the event of local hardware failure.<p>
   
-<h4>Rational Unified Process.</h4>
+<h3>Rational Unified Process.</h3>
 <p>An initial plan was drafted up during the early stages of the project. Rational Unified Process (RUP) was an attempt to come up with a comprehensive iterative software development process. RUP is essentially a large pool of knowledge. RUP consists of artifacts, processes, templates, phrases, and disciplines. It has detailed documentation, guidelines, sample artifacts, and deliverables. RUP is defined to be a customizable process that would work for building small, medium, and large software systems and process can customize Which called plugins. Also, RUP was greatly influenced by object-oriented analysis and design, and UML. RUP has four phases: Inception, elaboration, construction, and transition. <p>
 <p>According to the Rational Unified Process (RUP) guidelines, each phase has one or more iterations. Each RUP phase ends with a milestone and at the end of the inception phase, it can achieve the Lifecycle Objectives Milestone. Furthermore, the initial plan has considered Iteration Length and Timeboxing. That makes revisit existing software and improve it.<p>
 <h5>Iterative and Incremental software Development benefits. </h5> 
@@ -109,10 +109,10 @@ Furthermore, there was Included how many and how long management stages depend o
   <li>Handle evolving requirements.</li>
   <li>Ensuring visible progress.</li>
   <li>Early feedback</li>
-  <li>To Manage complexity<li>
+  <li>To Manage complexity</li>
   <li>Short and simple steps</li>
   li>Methodological improvements in the development process.</li>
-  <li>Series of steps to ensuring quality is built into the software..</li>
+  <li>Series of steps to ensuring quality is built into the software.</li>
   <li>Get a robust architecture.</li>
 </ul>
 
