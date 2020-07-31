@@ -1,5 +1,6 @@
 # Save-Life-Android
-<h2>Smart Diagnostic Assessment and Diagnostic testing system for the Healthcare industry - AI / IoT / Machine Learning / ML Text recognition and Detection / Vision API and OCR / Firebase / ML kit  / Android / Java </h2>
+<h3>Smart Diagnostic Assessment and Diagnostic testing system for the Healthcare industry - AI / IoT / Machine Learning / ML Text recognition and Detection / Vision API and OCR / Firebase / ML kit  / Android / Java </h3>
+<img src="Screenshot/poster.png"  alt="Screenshot"/>
 
 <h3>Abstract.</h3>
 <p>Usually, according to the principles and policies of the medical professionals, the diagnostic procedure needs to analyze diagnostic reports like full blood, etc. And needs to read several kinds of scan reports, etc... (Initial Diagnostic Assessment and Diagnostic Testing). Today, most fields of healthcare have faced a lack of efficiency issues because there is no proper communication link in medical laboratories and medical professionals to analytics medical problems and diagnosis according to investigation reports. Also need to improve the procedure of predict risks for illnesses and epidemics, take pro-active and precaution, investigate the nature of the illness, make decisions and sickness collaboration, efficient investigation procedure and develop exciting new techniques to treat diseases.<p>
