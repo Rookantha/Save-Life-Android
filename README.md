@@ -191,7 +191,7 @@ In the conclusion, to obtain great opportunity and encouragement to creates effi
 
 <p><img src="Screenshot/Screenshot_2020-07-31-04-52-00.png"  alt="Screenshot"/><p>
            
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="350" /><p>
+<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="300" /><p>
 
 <p>Start Page<p>
   
