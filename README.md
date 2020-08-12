@@ -177,63 +177,91 @@ Firebase storage reference was used to create the files and upload them to the s
 <p>This project set out to research the importance of build-up proper communication to Diagnostic assessment and testing in public healthcare, especially in the low and middle-class countries. That is enables efficient essential medical service collaboration between medical professionals. also, application eliminates human errors and time wastage <p>paper-based processes and improves the Quality of patient care by avoiding the critical condition of patients.<p>
 The project has recognized the challenges and possibilities of diagnosis by utilized tools and technologies, it opens the doors to future research directions.
 In the conclusion, to obtain great opportunity and encouragement to creates efficient and effective applications for secure billions of lives in the world according to the concept of "think out of the box" is one of the victories from this application.<p>
-  
+
+<h3>Scope and Functionality</h3>
+<h5>Users Functionality</h5>
+
+ <ul>
+<li>Diagnostic testing reports data extraction and analysis methods are more effective to health experts to make their final diagnosis investigation for patients who need emergency treatment as priority wise from the hospital. That process implemented by using machine learning text recognition, text matching text analysis approaches.</li>
+<li>Doctors or medical expertise Login Registration.</li>
+<li>Medical Laboratory scientist Login Registration.</li>
+<li>Healthcare staff logging Login Registration.</li>
+<li>Users Login implementation with firebase authentication improves security policy.</li>
+<li>users able to edit and update (user profile, name, ward number, and password) the profile.</li>
+<li>Search functionality allows selecting patients by their names.</li>
+</ul> 
+<h5>Doctors, medical expertise Functionality</h5>
+<li>Doctors, medical expertise, or Healthcare staff able to create a new patient investigation profile, update the patient's investigations, visualize the investigation profile in real-time.</li>
+<li>Patient investigation profile includes patient’s general information, patient's medical history, symptoms, investigation Summary reports, doctors, and healthcare staff Investigations, requested scans or reports, and reports images and descriptions.</li>
+<li>Also, Doctors or medical expertise may able to Request investigation reports from the immediate process or Normal process from the laboratory and they can view Abnormal, critical or Normal scan images, and descriptions and scan results in real-time.</li>
+<li>Based on updated patients' detail that experts can attend investigations or required actions immediately.</li>
+</ul>
+   
+<h5>Medical Laboratory scientists Functionality</h5>
+<li>Medical Laboratory scientists can visualize who needs immediately investigations request by doctors.</li>
+<li>The mobile application customized android camera feature allows Laboratory scientists to capture the investigations reports with high resolutions. That process implemented by using machine learning text recognition and java text mating techniques.</li>
+<li>The application can identify the captured reports have indicated an abnormal value or not.</li>
+
 <h2>Screen Shots</h2>
-<p>Start Page & Login<p>
+<p>SAVE LIFE Logo & Login<p>
 <p><img src="Screenshot/Screenshot58.png"  alt="Screenshot" width="250" height="450" /><p>
 
 <p><img src="Screenshot/Screenshot49.png"  alt="Screenshot" width="250" height="450" /><p>
   
+<p><img src="Screenshot/Screenshot22.png"  alt="Screenshot" width="250" height="450" /><p>  
+  
 <p>Register <p>
-<p><img src="Screenshot/Screenshot50.png"  alt="Screenshot" width="250" height="450" /><p>
+<p><img src="Screenshot/Screenshot100.png"  alt="Screenshot" width="250" height="450" /><p>
   
 <p><img src="Screenshot/Screenshot43.png"  alt="Screenshot" width="250" height="450"  /><p>
   
 <p><img src="Screenshot/Screenshot53.png"  alt="Screenshot" width="250" height="450"  /><p>  
+  
+<p><img src="Screenshot/Screenshot07.png"  alt="Screenshot" width="250" height="450"/><p>
+  
+<p>View Doctor navigation Drawer Abnormal, Critical, Normal Patients and All Patients Details etc. <p>
+  
+<p><img src="Screenshot/Screenshot13.png"  alt="Screenshot" width="250" height="450"/><p>
+  
+  
+<p>profile Image Change & Image Rotaion<p>
+  
+<p><img src="Screenshot/Screenshot349.png"  alt="Screenshot" width="250" height="450"/><p>
+  
+<p><img src="Screenshot/Screenshot00.png"  alt="Screenshot" width="250" height="450" /><p>
+  
+<p><img src="Screenshot/Screenshot44.png"  alt="Screenshot" width="250" height="450"/><p>
 
-<p>Image Rotaion<p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
+<p>categorized Abnormal, Critical, Normal Patients and select their investigation information and Reports.<p>
   
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-  
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-  
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>  
-  
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>  
-  
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>  
-  
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>  
-  
-  
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>  
-  
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>    
-  
-  
+<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="250" height="450" /><p>  
 
-<p>Start Page<p>
+<p>All Patients Details<p>
   
-  
-  
+<p><img src="Screenshot/Screenshot21.png"  alt="Screenshot" width="250" height="450"/><p>
 
+<p>Add Patients<p>
+  
+<p><img src="Screenshot/Screenshot24.png"  alt="Screenshot" width="250" height="450"/><p>  
+
+<p>Patients Investigation Profile<p>
+  
+<p><img src="Screenshot/Screenshot546.png"  alt="Screenshot" width="250" height="450"/><p>
+ 
+<p>Doctors Update and history of Patients Medical History, Symptoms, Investigation Summary visualize in real-time. <p>
+  
+<p><img src="Screenshot/Screenshot08.png"  alt="Screenshot" width="250" height="450" /><p>
+  
+<p><img src="Screenshot/Screenshot56.png"  alt="Screenshot" width="160" height="280" /><p>
+  
+<p>Logout<p>  
+
+<p><img src="Screenshot/Screenshot47.png"  alt="Screenshot" width="160" height="280" /><p>  
+  
+Doctors Requested investigation Testing reports and Requested process.
+
+
+Detecting Abnormal or Normal Values indicate in the captured Image.
+
+<p><img src="Screenshot/Screenshot51.png"  alt="Screenshot" width="160" height="280" /><p>  
+  
