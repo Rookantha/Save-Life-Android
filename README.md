@@ -179,13 +179,19 @@ The project has recognized the challenges and possibilities of diagnosis by util
 In the conclusion, to obtain great opportunity and encouragement to creates efficient and effective applications for secure billions of lives in the world according to the concept of "think out of the box" is one of the victories from this application.<p>
   
 <h2>Screen Shots</h2>
-<p>Start Page<p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="200" height="320" /><p>
-  
-<p>Start Page<p>  
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
+<p>Start Page & Login<p>
+<p><img src="Screenshot/Screenshot58.png"  alt="Screenshot" width="200" height="320" /><p>
 
-  <p>Image Rotaion<p>
+<p><img src="Screenshot/Screenshot49.png"  alt="Screenshot" width="160" height="280" /><p>
+  
+<p>Register <p>
+<p><img src="Screenshot/Screenshot00.png"  alt="Screenshot" width="160" height="280" /><p>
+  
+<p><img src="Screenshot/Screenshot43.png"  alt="Screenshot" width="160" height="280" /><p>
+  
+<p><img src="Screenshot/Screenshot53.png"  alt="Screenshot" width="160" height="280" /><p>  
+
+<p>Image Rotaion<p>
 <p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
   
 <p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
