@@ -180,7 +180,7 @@ In the conclusion, to obtain great opportunity and encouragement to creates effi
   
 <h2>Screen Shots</h2>
 <p>Start Page & Login<p>
-<p><img src="Screenshot/Screenshot58.png"  alt="Screenshot" width="300" height="450" /><p>
+<p><img src="Screenshot/Screenshot58.png"  alt="Screenshot" width="270" height="450" /><p>
 
 <p><img src="Screenshot/Screenshot49.png"  alt="Screenshot" width="160" height="280" /><p>
   
