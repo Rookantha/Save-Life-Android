@@ -1,5 +1,5 @@
 # Save-Life-Android
-<h3>Smart Diagnostic Assessment and Diagnostic testing system for the Healthcare industry - AI / IoT / Machine Learning / ML Text recognition and Detection / Vision API and OCR / Firebase / ML kit  / Android / Java </h3>
+<h3>Smart Diagnostic Assessment and Diagnostic testing Application for the Healthcare industry - AI / IoT / Machine Learning / ML Text recognition and Detection / Vision API and OCR / Firebase / ML kit  / Android / Java </h3>
 <img src="Screenshot/poster.png"  alt="Screenshot"/>
 
 <h3>Abstract.</h3>
@@ -178,7 +178,23 @@ Firebase storage reference was used to create the files and upload them to the s
 The project has recognized the challenges and possibilities of diagnosis by utilized tools and technologies, it opens the doors to future research directions.
 In the conclusion, to obtain great opportunity and encouragement to creates efficient and effective applications for secure billions of lives in the world according to the concept of "think out of the box" is one of the victories from this application.<p>
   
+<h2>Screen Shots</h2>
+<p>Start Page<p>
+<p><img src="Screenshot_2020-07-31-04-52-58.png"  alt="Screenshot"/><p>
+  
+<p>Start Page<p>  
+<p><img src="Screenshot_2020-07-31-04-52-50.png"  alt="Screenshot"/><p>
 
+<p>Start Page<p>
+<p><img src="screenshot/Annotation1.png"  alt="Screenshot"/><p>
+  <p>Image Rotaion<p>
+<p><img src="Screenshot_2020-07-31-04-52-49.png"  alt="Screenshot"/><p>
+
+<p><img src="Screenshot_2020-07-31-04-52-00.png"  alt="Screenshot"/><p>
+           
+<p><img src="Screenshot_2020-07-31-04-52-50.png"  alt="Screenshot"/><p>
+
+<p>Start Page<p>
   
   
   
