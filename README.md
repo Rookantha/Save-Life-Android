@@ -202,7 +202,7 @@ In the conclusion, to obtain great opportunity and encouragement to creates effi
 <li>The mobile application customized android camera feature allows Laboratory scientists to capture the investigations reports with high resolutions. That process implemented by using machine learning text recognition and java text mating techniques.</li>
 <li>The application can identify the captured reports have indicated an abnormal value or not.</li>
 
-<h2>Screen Shots</h2>
+<h2>Sample Screen Shots</h2>
 <p>SAVE LIFE Logo & Login<p>
 <p><img src="Screenshot/Screenshot58.png"  alt="Screenshot" width="250" height="450" /><p>
 
@@ -250,18 +250,15 @@ In the conclusion, to obtain great opportunity and encouragement to creates effi
  
 <p>Doctors Update and history of Patients Medical History, Symptoms, Investigation Summary visualize in real-time. <p>
   
-<p><img src="Screenshot/Screenshot08.png"  alt="Screenshot" width="250" height="450" /><p>
+<p><img src="Screenshot/Screenshot08.png"  alt="Screenshot" width="250" height="450"/><p>
   
-<p><img src="Screenshot/Screenshot56.png"  alt="Screenshot" width="160" height="280" /><p>
+<p><img src="Screenshot/Screenshot56.png"  alt="Screenshot" width="250" height="450"/><p>
   
 <p>Logout<p>  
 
-<p><img src="Screenshot/Screenshot47.png"  alt="Screenshot" width="160" height="280" /><p>  
+<p><img src="Screenshot/Screenshot47.png"  alt="Screenshot" width="250" height="450" /><p>  
   
-Doctors Requested investigation Testing reports and Requested process.
-
-
 Detecting Abnormal or Normal Values indicate in the captured Image.
 
-<p><img src="Screenshot/Screenshot51.png"  alt="Screenshot" width="160" height="280" /><p>  
+<p><img src="Screenshot/Screenshot51.png"  alt="Screenshot" width="250" height="450" /><p>  
   
