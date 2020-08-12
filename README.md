@@ -180,15 +180,18 @@ In the conclusion, to obtain great opportunity and encouragement to creates effi
   
 <h2>Screen Shots</h2>
 <p>Start Page<p>
-<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
+<p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="200" height="320" /><p>
   
 <p>Start Page<p>  
 <p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
 
   <p>Image Rotaion<p>
 <p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
+  
 <p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
+  
 <p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
+  
 <p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>  
   
 <p><img src="Screenshot/Screenshot27.png"  alt="Screenshot" width="160" height="280" /><p>
