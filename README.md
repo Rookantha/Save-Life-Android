@@ -111,13 +111,55 @@ Furthermore, there was Included how many and how long management stages depend o
   <li>Early feedback</li>
   <li>To Manage complexity</li>
   <li>Short and simple steps</li>
-  li>Methodological improvements in the development process.</li>
+  <li>Methodological improvements in the development process.</li>
   <li>Series of steps to ensuring quality is built into the software.</li>
   <li>Get a robust architecture.</li>
 </ul>
 
+<h3>The Agile</h3>
+<h5>Agile to the Reuse.</h5>
+<p>In Agile, the software has built iteratively and in small increments. Each step involves requirements capture, refinement, software analysis, and design, building code, unit integration, and system testing, deployment, maintenance, and bug fixes. At the end of each Sprint, a usable software product will be produced. It enables address risks and uncertainties associated with software development at each stage of the process. (Montoya, 2018).<p>
+  
+<h3>Scrum framework.</h3>
+<p>The most popular Agile framework is called Scrum. The Scrum framework facilitates the development of complex products. Based on the evaluation, Scrum helps build products with evolving requirements, which makes it very effective for developing software.<p>
+  
+<h3>Sprint</h3>
+<p>In Scrum, software products will build in an iterative and incremental software development. Each timebox iteration of work is called a sprint. The sprint is often described as the container event for all other Scrum events.<p>
+<p>Each sprint starts with an event called sprint planning and each sprint ends with two events, the sprint review and sprint retrospective. This entire iteration cycle is called the sprint. This cycle continuously repeats as the Scrum builds a product. Each sprint must end with a potentially releasable product increment.<p>
+<h3>Kanban principles and core practices.</h3>
+<p>Kanban is a set of practices and principles that can be applied to an existing development process. It can be applied piecemeal which is called a shallow application or all out. Kanban is more than just keep track of the tasks and displaying the work. It is a way to organize the work for delivering the greatest valuable software product.<p>
+<p>The chosen Kanban tool for this project was Trello and Trello bord including a list of development tasks, can be found at the beginning of each development stage in this report.<p>
 
-
+<h3>Tools and Technologies.</h3>
+<p>The project was focused on how the flowing technologies can effectively be used in the fields of healthcare, medicine, and public health.<p>
+<h5>Applying AI and IoT to Medicine and Healthcare.</h5>
+<p>AI is one of the most trending technologies which has inspired by journalists, writers, academics, and computer scientists presently. It has opened the door to large grants that early computer scientists used to build out a whole new area of research. AI as technology is any system that exhibits behavior that could be interpreted as human intelligence. There are many different forms of human intelligence.<p>
+<p>This is seen as intelligent behavior, only because computers can be so much better than any human in identifying and matching different patterns. Based on that AI can be effectively used in the fields of healthcare and medicine.<p>
+<p>For example, researchers in Denmark developed an AI assistant that listens on the phone to breathing patterns, tones of voice, and background noises during emergency calls to help diagnose heart attacks, with up to 95% accuracy, allowing them to get people the help they need more quickly.<p>
+<p>IEEE defines the Internet of Things as a network that connects uniquely identifiable things to the internet. As per the project domain, millions of devices are using in the healthcare system to help patients, like monitoring systems, tracking sensors, and smart healthcare apps.<p>
+  
+<h3>Machine Learning</h3>
+<p>ML has been around for a long time. Early AI researchers started to wonder if instead of planning out matching patterns, a computer could be programmed to learn the new patterns by itself. This is the beginning of the ML.<p>
+<h3>ML Text recognition and Detection.</h3>
+<p>Text recognition and detection are referred to as the process of deriving information from the text. Text recognition and analytics are one of the fastest-growing areas in the field of machine learning. There is a great reason for this. More and more data generated today is free text.<p>
+<p>For example:<p>
+<p>The Internet contains several blogs, reviews, comments, notes, and other text-based facts including Social media.<p>
+<p>With so much free text data out there, businesses can capitalize through text detection and text analytics. They can then use these insights to strategize business actions, but analyzing text poses us various unique challenges. Text data is several times as large as numeric data. Also, the text does not have a fixed structure or schema and that makes understanding it very difficult.<p>
+  
+<h3>Vision API and OCR.</h3>
+<p>Google’s Cloud Vision is built on powerful computer vision models that power several Google services. Google’s AI and machine learning products are divided into several components. One of them the AI building blocks are made up of two further components, pre-trained models, and custom models. Pretrained models are further broken down into sight, language, structured data, and conversation. Google Cloud Vision API based on these pre-trained models and allows models to label images and to detect certain aspects of those images that Google has made available from their own models and training datasets (Google, n.d.).<p>
+<p>Text detection and document text detection annotation features are supported to optical character recognition (OCR).<p>
+<h3>Firebase.</h3>
+<p>Firebase is a cloud service platform that can be accessed through its SDK. Functionality ranges from authentication, Realtime Database functionality, and analytics to cloud messaging storage, ads, and much more. (Google, n.d.). (Firebase, n.d.).<p>
+<p>Using firebase over other systems are as follows:<p>
+<h3>ML kit Mobile Software Development kit.</h3>
+<p>ML Kit mobile SDK brings Google's ML technologies to Android and IOS software application. General-purpose of APIs introduced software features such as text recognition, face <p>recognition, barcode scanning, image labeling, and landmark recognition, etc.<p>
+The project overarching goal is to Extract medical test information into text for an actionable analyzed data, via application Firebase ML kit text detection methods. High-quality information is typically derived through the devising of patterns and trends through means such as statistical pattern learning. In that case, Detecting and turning medical diagnosis tests into actionable information and finding sensitive data in diagnostic testing has various unique challenges (Google, n.d.).<p>
+<h3>Firebase Authentication.</h3>
+<p>There are two main ways provided by Firebase to do user authentication, with and without the provided user interface. Firebase UI authentication provides for the user to login and creates accounts using the email and password, Google account, Facebook, Twitter, and by their phone to receive a text to respond to. These are each federated which means they can be supported together or separately (Google, n.d.).<p>
+<h3>Realtime Database and Data structure.</h3>
+<p>The Realtime Database module gives access to a cloud-hosted NoSQL database.<p>
+<p>Unlike SQL databases that use a relational data structure, The Realtime Database stores all its objects as JSON objects. The JSON Objects tree structure has a series of nodes and in those nodes save the information by keys. The Realtime Database functionality has security roles that can be configured in the console for greater privacy.<p>
   
   
   
