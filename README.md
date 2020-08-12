@@ -180,19 +180,17 @@ In the conclusion, to obtain great opportunity and encouragement to creates effi
   
 <h2>Screen Shots</h2>
 <p>Start Page<p>
-<p><img src="Screenshot_2020-07-31-04-52-58.png"  alt="Screenshot"/><p>
+<p><img src="Screenshot/Screenshot_2020-07-31-04-52-58.png"  alt="Screenshot"/><p>
   
 <p>Start Page<p>  
-<p><img src="Screenshot_2020-07-31-04-52-50.png"  alt="Screenshot"/><p>
+<p><img src="Screenshot/Screenshot_2020-07-31-04-52-50.png"  alt="Screenshot"/><p>
 
-<p>Start Page<p>
-<p><img src="screenshot/Annotation1.png"  alt="Screenshot"/><p>
   <p>Image Rotaion<p>
-<p><img src="Screenshot_2020-07-31-04-52-49.png"  alt="Screenshot"/><p>
+<p><img src="Screenshot/Screenshot_2020-07-31-04-52-49.png"  alt="Screenshot"/><p>
 
-<p><img src="Screenshot_2020-07-31-04-52-00.png"  alt="Screenshot"/><p>
+<p><img src="Screenshot/Screenshot_2020-07-31-04-52-00.png"  alt="Screenshot"/><p>
            
-<p><img src="Screenshot_2020-07-31-04-52-50.png"  alt="Screenshot"/><p>
+<p><img src="Screenshot/Screenshot_2020-07-31-04-52-50.png"  alt="Screenshot"/><p>
 
 <p>Start Page<p>
   
