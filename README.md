@@ -1,5 +1,7 @@
 # Save-Life-Android
 <h3>Smart Diagnostic Assessment and Diagnostic testing Application for the Healthcare industry - AI / IoT / Machine Learning / ML Text recognition and Detection / Vision API and OCR / Firebase / ML kit  / Android / Java </h3>
+<h5 style="color:red">This repository provides software documentation and user guide only. If you need source code for this project contact me.</h5>
+
 <img src="Screenshot/poster.png"  alt="Screenshot"/>
 
 <h3>Abstract.</h3>
